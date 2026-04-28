@@ -1,0 +1,1 @@
+ALTER TABLE public.policy_documents ADD COLUMN IF NOT EXISTS expiry_date DATE; ALTER TABLE public.policy_documents ADD COLUMN IF NOT EXISTS coverage_type TEXT;

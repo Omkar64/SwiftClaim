@@ -1,0 +1,9 @@
+name,address,city,state,phone,latitude,longitude,is_active,vehicle_types,repair_capabilities,cashless_supported,max_daily_capacity
+Metro AutoCare Jayanagar,"14/3, 8th Main Road, Jayanagar 3rd Block",Bangalore,Karnataka,-5300,12.958104,77.507221,TRUE,"""{hatchback,sedan,suv}""","{body_repair,paint,electrical,bumper_replacement}",TRUE,30
+Swift Motors Basavanagudi,"22, DVG Road, Gandhi Bazaar, Basavanagudi",Bangalore,Karnataka,-12956,12.956881,77.505934,TRUE,"""{hatchback,sedan,suv}""","{body_repair,paint,glass_replacement}",TRUE,22
+CarePoint Auto Hub JP Nagar,"9th Cross, 2nd Phase, JP Nagar",Bangalore,Karnataka,-10779,12.960217,77.509148,TRUE,"""{hatchback,sedan,suv}""","{body_repair,paint,suspension,electrical}",TRUE,28
+GreenLine Garage South End,"5, South End Road, Wilson Garden",Bangalore,Karnataka,-11933,12.954962,77.504618,TRUE,"""{hatchback,sedan,suv}""","{body_repair,paint,ac_service}",FALSE,18
+PrimeFix Auto Works Banashankari,"44, 1st Stage, Banashankari",Bangalore,Karnataka,-13177,12.952843,77.510332,TRUE,"""{hatchback,sedan,suv}""","{body_repair,paint,electrical,alloy_work}",TRUE,26
+CityRide Service Garage Lalbagh,"18, Lalbagh Road Cross, Sudhama Nagar",Bangalore,Karnataka,-5300,12.961488,77.503905,TRUE,"""{hatchback,sedan,suv}""","{body_repair,paint,minor_mechanical}",TRUE,16
+Southern Star Crash Repair,"31, Kumaraswamy Layout Main Road",Bangalore,Karnataka,-6422,12.950974,77.512417,TRUE,"""{hatchback,sedan,suv}""","{body_repair,chassis,paint}",TRUE,20
+UrbanDrive Garage Kumaraswamy,"7, 15th Cross, Kumaraswamy Layout",Bangalore,Karnataka,-7567,12.949886,77.508764,TRUE,"""{hatchback,sedan,suv}""","{body_repair,paint,electrical,glass_replacement}",TRUE,24

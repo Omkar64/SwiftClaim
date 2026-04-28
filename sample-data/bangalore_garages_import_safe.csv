@@ -1,0 +1,9 @@
+name,address,city,state,phone,latitude,longitude,is_active,cashless_supported,max_daily_capacity
+Metro AutoCare Jayanagar,"14/3, 8th Main Road, Jayanagar 3rd Block",Bangalore,Karnataka,+91-80-4110-1201,12.958104,77.507221,true,true,30
+Swift Motors Basavanagudi,"22, DVG Road, Gandhi Bazaar, Basavanagudi",Bangalore,Karnataka,+91-80-4123-8844,12.956881,77.505934,true,true,22
+CarePoint Auto Hub JP Nagar,"9th Cross, 2nd Phase, JP Nagar",Bangalore,Karnataka,+91-80-4135-6655,12.960217,77.509148,true,true,28
+GreenLine Garage South End,"5, South End Road, Wilson Garden",Bangalore,Karnataka,+91-80-4156-7788,12.954962,77.504618,true,false,18
+PrimeFix Auto Works Banashankari,"44, 1st Stage, Banashankari",Bangalore,Karnataka,+91-80-4167-9021,12.952843,77.510332,true,true,26
+CityRide Service Garage Lalbagh,"18, Lalbagh Road Cross, Sudhama Nagar",Bangalore,Karnataka,+91-80-4178-1133,12.961488,77.503905,true,true,16
+Southern Star Crash Repair,"31, Kumaraswamy Layout Main Road",Bangalore,Karnataka,+91-80-4189-2244,12.950974,77.512417,true,true,20
+UrbanDrive Garage Kumaraswamy,"7, 15th Cross, Kumaraswamy Layout",Bangalore,Karnataka,+91-80-4201-3377,12.949886,77.508764,true,true,24
